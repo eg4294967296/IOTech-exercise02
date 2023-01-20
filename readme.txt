@@ -1,5 +1,5 @@
 
---README for IOTechSystems Exercise 02--
+# README for IOTechSystems Exercise 02
 
 -This python file processes a JSON file with format provided in https://github.com/IOTechSystems/exercises/blob/main/exercise-02/data/data.json
 	-Discards devices where the timestamp values (in UNIX format) are before current time
